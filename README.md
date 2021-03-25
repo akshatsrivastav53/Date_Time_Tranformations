@@ -4,6 +4,8 @@ This repo has project which transform the dataTime (String) in different formats
 
 First Requirement -  Input DateTime as a string and transform it in different formats and time zones like PST, IST, GMT, CST.
 
+Second Requirement - Add day of the week to the date time format.
+
 # Steps to Compile and run code
 1.import code from git repo to Eclipse.
 2.Run the TransformDateTime.java (to format the date and time. Convert that into different time zones) as Java application.
